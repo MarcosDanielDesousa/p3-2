@@ -10,11 +10,12 @@ const textoResultado = document.querySelector(".texto-resultado"); //constante t
 const perguntas = [ //abre uma lista de perguntas
     { //abre objeto de pergunta
         enunciado: " Crie seu Pokémon",
-        enunciado: " Escolha seu tipo inicial
+        enunciado: " Escolha seu tipo inicial ",
             alternativas: [
         { //alternativa 1
-            texto: "Sei que sei que lá",
-            afirmacao: "Afirmação"
+            texto: " Fogo ",
+            afirmacao: "Vantagens: Inseto, Planta, Gelo e Aço.
+Desvantagens: Pedra, Terrestre e Água."
         },
         { //alternativa 2
             texto: "Ah que não sei que sei que",
