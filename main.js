@@ -18,8 +18,8 @@ const perguntas = [ //abre uma lista de perguntas
 Desvantagens: Pedra, Terrestre e Água."
         },
         { //alternativa 2
-            texto: "Ah que não sei que sei que",
-            afirmacao: "Afirmação",
+            texto: "Água",
+            afirmacao: "Ganha dos pokémons do tipo:veneno, normal, fogo, pedra, e suas únicas fraquezas são elétrico e planta",
         },
     ]
     }, //fecha objeto de pergunta
