@@ -9,8 +9,9 @@ const textoResultado = document.querySelector(".texto-resultado"); //constante t
 
 const perguntas = [ //abre uma lista de perguntas
     { //abre objeto de pergunta
-        enunciado: "Pergunta 1",
-        alternativas: [
+        enunciado: " Crie seu Pokémon",
+        enunciado: " Escolha seu tipo inicial
+            alternativas: [
         { //alternativa 1
             texto: "Sei que sei que lá",
             afirmacao: "Afirmação"
