@@ -19,9 +19,13 @@ Desvantagens: Pedra, Terrestre e Água."
         },
         { //alternativa 2
             texto: "Água",
-            afirmacao: "Ganha dos pokémons do tipo:veneno, normal, fogo, pedra, e suas únicas fraquezas são elétrico e planta",
-        },
-    ]
+            afirmacao: "Ganha dos pokémons do tipo:veneno, normal, fogo, pedra, e suas únicas fraquezas são elétrico e planta
+            },
+  { //alternativa 3
+            texto: "Planta",
+            afirmacao: " recebe dano dobrado de golpes do tipo inseto, fogo, voador, gelo e venenoso. Em compensação são resistentes aos elétricos, plantas, terrestres e água.   ",
+            
+            ]
     }, //fecha objeto de pergunta
     { //abre objeto de pergunta
         enunciado: "Pergunta 2",
