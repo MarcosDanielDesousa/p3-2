@@ -28,15 +28,25 @@ Desvantagens: Pedra, Terrestre e Água."
             ]
     }, //fecha objeto de pergunta
     { //abre objeto de pergunta
-        enunciado: "Pergunta 2",
+        enunciado: " Escolha seu tipo secundarío",
         alternativas: [
         {
-            texto: "Que não sei que sei que lá",
-            afirmacao: "Afirmação"
+            texto: "Inseto",
+            afirmacao: "Vantagem: Psíquico, Sombrio e Planta
+Fraqueza: Fogo e Voador
+"
         },
         {
-            texto: "Sei lá sei que",
-            afirmacao: "Afirmação",
+            texto: "Voador",
+            afirmacao: "Vantagem: Lutador, Planta e Inseto
+Fraqueza: Elétrico, Pedra e Gelo
+",
+        },
+            {
+            texto: "Noturno",
+            afirmacao: "Vantagem: Fantasma e Psíquico
+Fraqueza: Lutador, Fada e Inseto
+",
         },
     ]
     }, //fecha objeto de pergunta
