@@ -43,19 +43,36 @@ const perguntas = [
     ]
     }, //fecha objeto de pergunta
     { //abre objeto de pergunta
-        enunciado: "Pergunta 3",
+        enunciado: "Escolha a primeira parte do nome de eu pokemon",
         alternativas: [
         {
-            texto: "Bla bla bla bla",
-            afirmacao: "Afirmação"
+            texto: "zjarrit",
+            afirmacao: "zjarrit"
         },
         {
-            texto: "Endauldi agrummgit",
-            afirmacao: "Afirmação",
+            texto: "uje",
+            afirmacao: "uje",
         },
         {
-            texto: "Endauldi agrummgit",
-            afirmacao: "Afirmação",
+            texto: "Bime",
+            afirmacao: "Bime",
+        },
+    ]
+    }, //fecha objeto de pergunta
+    { //abre objeto de pergunta
+        enunciado: "Escolha a segunda parte do nome",
+        alternativas: [
+        {
+            texto: "fluturues",
+            afirmacao: "-fluturues"
+        },
+        {
+            texto: "nate",
+            afirmacao: "-nate",
+        },
+        {
+            texto: "nxitje",
+            afirmacao: "-nxitje",
         },
     ]
     } //fecha objeto de pergunta
