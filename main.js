@@ -47,15 +47,15 @@ const perguntas = [
         alternativas: [
         {
             texto: "zjarrit",
-            afirmacao: "zjarrit"
+            afirmacao: "O nome seria Zjarrit"
         },
         {
             texto: "uje",
-            afirmacao: "uje",
+            afirmacao: "O nome seria Uje",
         },
         {
-            texto: "Bime",
-            afirmacao: "Bime",
+            texto: "bime",
+            afirmacao: "O nome seria Bime ",
         },
     ]
     }, //fecha objeto de pergunta
